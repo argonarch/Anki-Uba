@@ -20,4 +20,5 @@ Puedes:
 
 #### Todo muy lindo pero ... ¿como lo publico?
 
+1ro debemos exportar el mazo que queremos compartir
 Bueno hay 2 formas, por movil o computadora
