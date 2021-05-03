@@ -22,5 +22,7 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 Si lo harias por **Computadora** debes:
 
+![Screenshot_20210503_193726](https://user-images.githubusercontent.com/51279889/116942253-a53fa800-ac47-11eb-9058-8bff7fb4a575.png)
+
 Si lo harias por **Movil / Celular** debes:
 
