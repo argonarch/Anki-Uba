@@ -10,12 +10,12 @@ La idea general es centralizar las targetas anki referentes a materias de la UBA
 Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando para traerles mas contenido. Si estas interesado en contribuir, tu ayuda es mas que bienvenida.
 
 <!--ts-->
-  * [¿Que tengo que hacer?](#Anki-Uba)
-  * [¿Como puedo contribuir?](####¿Como-puedo-contribuir?)
-   * [¿como publico mis tarjetas o masos?](####¿Como-puedo-contribuir?)
-     * [Por movil](#####Si-lo-harias-por-**Movil-/-Celular**-debes:)
-     * [nst](##### "Si lo harias por **Computadora** debes:")
-  * [¿Como puedo contribuir?](####¿Como-puedo-contribuir?)
+  * [¿Que tengo que hacer?](#anki-Uba)
+  * [¿Como puedo contribuir?](#como-puedo-contribuir)
+   * [¿como publico mis tarjetas o masos?](#todo-muy-lindo-pero--como-lo-publico)
+     * [Por movil](#si-lo-harias-por-movil--celular-debes)
+     * [Por computadora](#si-lo-harias-por-computadora-debes)
+  * [Contacto](#anki-Uba)
 <!--te-->
 
 #### ¿Como puedo contribuir?
