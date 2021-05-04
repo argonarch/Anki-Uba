@@ -50,5 +50,7 @@ Para esto hay 2 formas, por **movil** o **computadora**
 Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), por ello dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
 
 Whatsapp:
+
 Telegram:
+
 Mail:
