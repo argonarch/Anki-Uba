@@ -9,8 +9,10 @@ La idea general es centralizar las targetas anki referentes a materias de la UBA
 
 Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando para traerles mas contenido. Si estas interesado en contribuir, tu ayuda es mas que bienvenida.
 
-* [envirius](#### ¿Como puedo contribuir?)
-
+<!--ts-->
+  * [envirius](#Anki-Uba)
+  * [gh-md-toc](#gh-md-toc)
+<!--te-->
 
 #### ¿Como puedo contribuir?
 - Si ya tienes tarjetas hechas de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
