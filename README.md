@@ -18,16 +18,20 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 #### Todo muy lindo pero ... ¿como lo publico?
 
-1ro debemos exportar el mazo que queremos compartir, para eso hay 2 formas, por **movil** o **computadora**
+Para esto hay 2 formas, por **movil** o **computadora**
 
 Si lo harias por **Movil / Celular** debes:
 
 Si lo harias por **Computadora** debes:
 
-- paso 1
-![paso-1](https://user-images.githubusercontent.com/51279889/116948332-7a5c5080-ac55-11eb-855f-86b2d2139bbb.jpg)
+- paso 1: Entras al programa **Anki**
 - paso 2
-![paso-2](https://user-images.githubusercontent.com/51279889/116948331-7a5c5080-ac55-11eb-920c-62c591f6e638.jpg)
+![paso-1](https://user-images.githubusercontent.com/51279889/116948332-7a5c5080-ac55-11eb-855f-86b2d2139bbb.jpg)
 - paso 3
+![paso-2](https://user-images.githubusercontent.com/51279889/116948331-7a5c5080-ac55-11eb-920c-62c591f6e638.jpg)
+- paso 4
 ![paso-3](https://user-images.githubusercontent.com/51279889/116948328-792b2380-ac55-11eb-9857-09ed4baf8af8.jpg)
 
+- paso 5: Te pedira el lugar a donde quieres guardar el archivo, lo eliges luego marcas guardar
+
+- paso 6: con el archivo ya listo solo debes enviarlo a los contactos expesificados ""aqui""""""
