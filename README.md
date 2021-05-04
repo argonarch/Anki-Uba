@@ -15,17 +15,17 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
    * [¿como publico mis tarjetas o masos?](#todo-muy-lindo-pero--como-lo-publico)
      * [Por movil](#si-lo-harias-por-movil--celular-debes)
      * [Por computadora](#si-lo-harias-por-computadora-debes)
-  * [Contacto](#anki-Uba)
+  * [Contacto](#contacto)
 <!--te-->
 
-#### ¿Como puedo contribuir?
-- Si ya tienes tarjetas hechas de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
+### ¿Como puedo contribuir?
+- Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
 
 - Si encontraste errores tanto gramaticales, comprencion de texto o problemas con latex, Puedes mencionarlos en el apartado Issues, o si alcanzas a corregirlo podes publicarlo.
 
 - Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
 
-#### Todo muy lindo pero ... ¿como lo publico?
+### Todo muy lindo pero ... ¿como lo publico?
 
 Para esto hay 2 formas, por **movil** o **computadora**
 
@@ -43,4 +43,12 @@ Para esto hay 2 formas, por **movil** o **computadora**
 
 - paso 5: Te pedira el lugar a donde quieres guardar el archivo, lo eliges luego marcas guardar
 
-- paso 6: con el archivo ya listo solo debes enviarlo a los contactos expesificados ""aqui""""""
+- paso 6: con el archivo ya listo solo debes enviarlo a los contactos expesificados ""aqui""
+
+
+### Contacto
+Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), por ello dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
+
+Whatsapp:
+Telegram:
+Mail:
