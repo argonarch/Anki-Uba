@@ -18,7 +18,7 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 #### Todo muy lindo pero ... ¿como lo publico?
 
-1ro debemos exportar el mazo que queremos compartir, para eso hay 2 formas:
+1ro debemos exportar el mazo que queremos compartir, para eso hay 2 formas, por **movil** o **computadora**
 
 Si lo harias por **Movil / Celular** debes:
 
