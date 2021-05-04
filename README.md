@@ -20,9 +20,11 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 1ro debemos exportar el mazo que queremos compartir, para eso hay 2 formas:
 
+Si lo harias por **Movil / Celular** debes:
+
 Si lo harias por **Computadora** debes:
 
-![Screenshot_20210503_193726](https://user-images.githubusercontent.com/51279889/116942253-a53fa800-ac47-11eb-9058-8bff7fb4a575.png)
-
-Si lo harias por **Movil / Celular** debes:
+![paso-1](https://user-images.githubusercontent.com/51279889/116948332-7a5c5080-ac55-11eb-855f-86b2d2139bbb.jpg)
+![paso-2](https://user-images.githubusercontent.com/51279889/116948331-7a5c5080-ac55-11eb-920c-62c591f6e638.jpg)
+![paso-3](https://user-images.githubusercontent.com/51279889/116948328-792b2380-ac55-11eb-9857-09ed4baf8af8.jpg)
 
