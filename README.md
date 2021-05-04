@@ -1,13 +1,16 @@
 # Anki-Uba
 Hola, veo que estas interesado en el proyecto Anki Uba
 
-#### Te estaras preguntando ¿De que trata el proyecto?
+### Te estaras preguntando ¿De que trata el proyecto?
 
 La idea general es centralizar las targetas anki referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc o de especialidades espesificas
 
-#### Comienzo
+### Comienzo
 
 Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando para traerles mas contenido. Si estas interesado en contribuir, tu ayuda es mas que bienvenida.
+
+
+[TOC]
 
 ####  ¿Como puedo contribuir?
 - Si ya tienes tarjetas hechas de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
