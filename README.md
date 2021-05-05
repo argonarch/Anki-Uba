@@ -31,6 +31,8 @@ Para esto hay 2 formas, por **movil** o **computadora**
 
 ##### Si lo harias por **Movil / Celular** debes:
 
+![cel](https://user-images.githubusercontent.com/51279889/117090652-4e150280-ad2f-11eb-9c42-8f92f87f3c9e.jpg)
+
 ##### Si lo harias por **Computadora** debes:
 
 - paso 1: Entras al programa **Anki**
