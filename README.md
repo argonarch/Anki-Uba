@@ -10,7 +10,7 @@ La idea general es centralizar las targetas anki referentes a materias de la UBA
 Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando para traerles mas contenido. Si estas interesado en contribuir, tu ayuda es mas que bienvenida.
 
 <!--ts-->
-  * [¿Que tengo que hacer?](#anki-Uba)
+  * [¿Que tengo que hacer?](#que-tengo-que-hacer)
   * [¿Como puedo contribuir?](#como-puedo-contribuir)
    * [¿como publico mis tarjetas o masos?](#todo-muy-lindo-pero--como-lo-publico)
      * [Por movil](#si-lo-harias-por-movil--celular-debes)
@@ -21,9 +21,13 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, en concreto es el archivo llamado  "UBA XXI.apkg" debes clickearlo y luego seleccionar la opcion "download"
 
-Una vez que descargemos el archivo lo abrimos y aceptamos, se importara automaticamente el mazo a nuestros anki
+Una vez que descarges el archivo lo abres y se importara automaticamente el mazo a nuestros anki
+
+- En celular
 
 ![cel2](https://user-images.githubusercontent.com/51279889/117212407-afd97900-add0-11eb-89e4-a56901fc326f.jpg)
+
+- En computadora
 
 ![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
 
