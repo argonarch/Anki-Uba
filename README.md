@@ -49,10 +49,10 @@ Para esto hay 2 formas, por **movil** o **computadora**
 
 
 ### Contacto
-Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), por ello dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
+Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
 
-Whatsapp:
+Whatsapp: +54 1122559077
 
-Telegram:
+Telegram: +54 1122559077 o https://t.me/argonarch
 
-Mail:
+Mail: argonarchy@gmail.com
