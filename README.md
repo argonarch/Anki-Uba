@@ -3,7 +3,7 @@ Hola, veo que estas interesado en el proyecto Anki Uba
 
 ### Te estaras preguntando ¿De que trata el proyecto?
 
-La idea general es centralizar las targetas anki referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc o de especialidades espesificas
+La idea general es centralizar las targetas anki referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc/Uba xxi o de especialidades dentro de la univercidad
 
 ### Comienzo
 
@@ -20,6 +20,10 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 ### ¿Que tengo que hacer?
 
 Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, en concreto es el archivo llamado  "UBA XXI.apkg" debes clickearlo y luego seleccionar la opcion "download"
+
+Una vez que descargemos el archivo lo abrimos y aceptamos, se importara automaticamente el mazo a nuestros anki
+
+![cel2](https://user-images.githubusercontent.com/51279889/117212407-afd97900-add0-11eb-89e4-a56901fc326f.jpg)
 
 ![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
 
