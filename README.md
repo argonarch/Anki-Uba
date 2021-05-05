@@ -17,6 +17,12 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
      * [Por computadora](#si-lo-harias-por-computadora-debes)
   * [Contacto](#contacto)
 <!--te-->
+### ¿Que tengo que hacer?
+
+Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, en concreto es el archivo llamado  "UBA XXI.apkg" debes clickearlo y luego seleccionar la opcion "download"
+
+![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
+
 
 ### ¿Como puedo contribuir?
 - Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
@@ -27,11 +33,11 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 
 ### Todo muy lindo pero ... ¿como lo publico?
 
-Para esto hay 2 formas, por **movil** o **computadora**
-
 ##### Si lo harias por **Movil / Celular** debes:
 
 ![cel](https://user-images.githubusercontent.com/51279889/117090652-4e150280-ad2f-11eb-9c42-8f92f87f3c9e.jpg)
+
+Contactos [aqui](#contacto)
 
 ##### Si lo harias por **Computadora** debes:
 
