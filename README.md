@@ -57,9 +57,11 @@ Contactos [aqui](#contacto)
 - paso 4
 ![paso-3](https://user-images.githubusercontent.com/51279889/116948328-792b2380-ac55-11eb-9857-09ed4baf8af8.jpg)
 
-- paso 5: Te pedira el lugar a donde quieres guardar el archivo, lo eliges luego marcas guardar
+- paso 5
+![Captura de pantalla 2021-05-04 162619](https://user-images.githubusercontent.com/51279889/117225771-7eb97280-ade9-11eb-8ead-9d4d814adb9b.jpg)
 
-- paso 6: con el archivo ya listo solo debes enviarlo a los contactos expesificados ""aqui""
+
+- paso 6: con el archivo ya listo solo debes enviarlo a los [contactos](#contacto) expesificados
 
 
 ### Contacto
