@@ -37,7 +37,7 @@ Nota importante: Para esto se debe de tener instalado previamente anki: para [**
 ### ¿Como puedo contribuir?
 - Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
 
-- Si encontraste errores tanto gramaticales, comprencion de texto o problemas con latex, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues), o si alcanzas a corregirlo podes publicarlo.
+- Si encontraste errores tanto gramaticales, comprencion de texto o problemas con latex, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto), o si alcanzas a corregirlo podes publicarlo.
 
 - Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
 
