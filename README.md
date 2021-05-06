@@ -15,6 +15,7 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
    * [¿como publico mis tarjetas o masos?](#todo-muy-lindo-pero--como-lo-publico)
      * [Por movil](#si-lo-harias-por-movil--celular-debes)
      * [Por computadora](#si-lo-harias-por-computadora-debes)
+  * [¿Que contenidos se encuentran por ahora?](#que-contenidos-se-encuentran-por-ahora)
   * [Contacto](#contacto)
 <!--te-->
 ### ¿Que tengo que hacer?
@@ -63,6 +64,14 @@ Contactos [aqui](#contacto)
 
 - paso 6: con el archivo ya listo solo debes enviarlo a los [contactos](#contacto) expesificados
 
+### ¿Que contenidos se encuentran por ahora?
+
+Por ahora el contenido que se encuentra disponibles hasta ahora son:
+
+- Fisica   1er examen 
+- Quimica  1er examen (en contruccion)
+
+Esta parte se va a ir actualizando a medida que vayan llegando mas sumas de contenido
 
 ### Contacto
 Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
