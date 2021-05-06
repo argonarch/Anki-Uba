@@ -32,6 +32,7 @@ Una vez que descarges el archivo lo abres y se importara automaticamente el mazo
 
 ![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
 
+Nota importante: Para esto se debe de tener instalado previamente anki: para [**Computadora**](https://apps.ankiweb.net/) ; para [**Movil**](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### ¿Como puedo contribuir?
 - Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
