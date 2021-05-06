@@ -67,8 +67,8 @@ Contactos [aqui](#contacto)
 ### Contacto
 Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
 
-Whatsapp: +54 1122559077
+Whatsapp: +541122559077
 
-Telegram: +54 1122559077 o https://t.me/argonarch
+Telegram: +54-1122559077 o https://t.me/argonarch
 
 Mail: argonarchy@gmail.com
