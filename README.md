@@ -3,7 +3,7 @@ Hola, veo que estas interesado en el proyecto Anki Uba
 
 ### Te estaras preguntando ¿De que trata el proyecto?
 
-La idea general es centralizar las targetas anki referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc/Uba xxi o de especialidades dentro de la univercidad
+La idea general es centralizar las targetas anki ([info](https://youtu.be/y0dsv4SjWds?t=43)) referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc/Uba xxi o de especialidades dentro de la univercidad
 
 ### Comienzo
 
