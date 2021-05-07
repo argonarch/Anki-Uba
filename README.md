@@ -75,7 +75,7 @@ Por ahora el contenido que se encuentra disponibles hasta ahora son:
 Esta parte se va a ir actualizando a medida que vayan llegando mas sumas de contenido
 
 ### Contacto
-Como veo que el metodo para compartir un archivo en git hub es algo lioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
+Como veo que el metodo para compartir un archivo en git hub es algo tedioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
 
 Whatsapp: +54 1122559077
 
