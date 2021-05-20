@@ -1,0 +1,1 @@
+No prestar atencion a esta carpeta solo son archivos para el funcionamiento de la pagina

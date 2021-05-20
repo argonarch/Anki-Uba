@@ -1,0 +1,1 @@
+Los archivos se separan a favor de lo que quiera la persona si quieren el archivo entero descargen el archivo "UBA XXI.apkg", pero si quiere los mazos de materias especificas abra la carpeta de la misma y descarge su archivo.
