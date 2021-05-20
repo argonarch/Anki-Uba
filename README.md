@@ -20,9 +20,7 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 <!--te-->
 ### ¿Que tengo que hacer?
 
-Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, en concreto es el archivo llamado  "UBA XXI.apkg" debes clickearlo y luego seleccionar la opcion "download"
-
-Una vez que descarges el archivo lo abres y se importara automaticamente el mazo a nuestros anki
+Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, entrando a la carpeta "Uba-21"
 
 - En celular
 
@@ -32,6 +30,8 @@ Una vez que descarges el archivo lo abres y se importara automaticamente el mazo
 
 ![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
 
+Una vez que descarges el archivo lo abres y se importara automaticamente el mazo a nuestros anki
+
 Nota importante: Para esto se debe de tener instalado previamente anki: para [**Computadora**](https://apps.ankiweb.net/) ; para [**Movil**](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### ¿Como puedo contribuir?
@@ -40,6 +40,8 @@ Nota importante: Para esto se debe de tener instalado previamente anki: para [**
 - Si encontraste errores tanto gramaticales, comprencion de texto o problemas con latex, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto), o si alcanzas a corregirlo podes publicarlo.
 
 - Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
+
+- Si cuentan con apuntes o archivos PDF de materias que nos faltan (lista [aqui]())puedes enviarlas a [contacto](#contacto), asi podremos crear tarjetas para nuevas materias  
 
 ### Todo muy lindo pero ... ¿como lo publico?
 
@@ -71,6 +73,16 @@ Por ahora el contenido que se encuentra disponibles hasta ahora son:
 
 - Fisica   1er examen 
 - Quimica  1er examen (en contruccion)
+
+## Apuntes y PDF faltantes
+
+Por ahora lo que nos faltan serian para las materias:
+
+- 
+-
+-
+-
+
 
 Esta parte se va a ir actualizando a medida que vayan llegando mas sumas de contenido
 
