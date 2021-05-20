@@ -1,4 +1,4 @@
-# Anki-Uba
+# Anki-U
 Hola, veo que estas interesado en el proyecto Anki Uba.
 
 ### Te estaras preguntando ¿De que trata el proyecto?
