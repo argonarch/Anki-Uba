@@ -71,8 +71,8 @@ Contactos [aqui](#contacto)
 
 Por ahora el contenido que se encuentra disponibles hasta ahora son:
 
-- Fisica   1er examen 
-- Quimica  1er examen (en contruccion)
+- Física e Introducción a la Biofísica (53)    1er examen 
+- Quimica (05) 1er examen (en contruccion)
 
 ## Apuntes y PDF faltantes
 
