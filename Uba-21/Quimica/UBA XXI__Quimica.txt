@@ -1,0 +1,42 @@
+¿De que esta compuesto el atomo?	Particulas subatomicas Electron(e) => Orbita Proton(p) => Nucleo Neutron(n) => Nucleo
+Numero masico (A)	A = n° de protones + n° de neutrones
+Numero atomico (Z)	Z = n° de protones
+Isotopos	Un mismo atomo con distinto numeros de neutrones
+Estructura Electronica de los atomos	[latex]\begin{tabular}{| c | c | c |} \hline Nivel energetico & N° Subniveles & Orbitales \\ \hline 1 & 1 & 1s \\ \hline 2 & 2 & 2s 2p \\ \hline 3 & 3 & 3s 3p 3d \\ \hline 4 & 4 & 4s 4p 4d 4f \\ \hline \end{tabular}[/latex] 2 Electrones maximos por orbital s = 1 orbital p = 3 orbitales d = 5 orbitales f = 7 orbitales
+¿Que es un orbital?	Zona del espacio alrededor del nucleo que se tiene mas probabilidad de encontrar un electron
+¿Que es la Configuracion Electronica?	Es la Manera de descubrir el estado energetico de los electrones en un atomo
+Configuracion Electronica Externa	Subniveles en el nivel (orbita) mas alejadas Ahi se encuentran los electrones que interactuan en las uniones quimicas
+Regla de Diagonales	
+Propiedades Periodicas: Electronegatividad y Energia de Ionizacion	Electronegatividad: es la tendendencia de un atomo de atraer hacia si los electrones de otro cuando se forma un enlace quimico Energia de Ionizacion: Es la energia que se requiere para quitar un electron a un atomo neutro en estado gaseoso y en su estado fundamental En ambos:
+Propiedades Periodicas: Radio atomico	Radio atomico: Es la mitad de la distancia internuclear minima que presenta una molecula diatomica de ese elemento en estado solido.
+¿Que es una Union Quimica?	Es la fuerza de atraccion entre 2 atomos o grupos de atomos con intencidad suficiente para mantenerlos unidos en una especie suficiente. estos mismo obtienen menos energia. Los electrones que participan en estas uniones, son los electrones de valencia, osea los electrones que estan en la CEE
+Tipos de enlaces: Enlace Ionico	Este tipo de unión resulta de las interacciones electrostáticas entre cationes y aniones. Normalmente son uniones entre elementos metalicos y no metalicos Ej: KF, NaCl y K2O
+Relacion Enlace Ionico y Covalente	
+Tipos de Enlaces: Enlaces Covalentes	Es aquel en el que los átomos comparten electrones y forman moléculas Normalmente son uniones entre elementos No metalicos y No metalicos Ej: Cl2, ClH, H2O
+Hidruros: Metalicos	"Se forma de: Elemento metalico + Hidrogeno Nomenclatura por Stock: ""Hidruro de .... Elemento metalico + (n° de valencia) [si es necesario]"" Nomenclatura Sistematica: ""Sufrijo [si es necesario] + Hidruro de .... Sufrijo [si es necesario] + Elemento metalico"""
+Hidruros: No Metalicos	Son lo compuestos por Hidrogeno y un elemento del grupo 13, 14, 15 SiH4 -- Silano CH4 -- Metano BH3 -- Borano NH3 -- Amoniaco PH3 -- Fosfano AsH3 -- Arsano SbH3 -- Estibano
+Hidruros de Hidrogeno	Son lo compuestos por Hidrogeno y un elemento del grupo 16 y 17 Estos se memorizan: Normal // Con (aq) o (ac) Grupo 16: H2S -- Sulfuro de hidrogeno // Acido sulf hidrico H2Se -- Selenuro de hidrogeno // Acido selen hidrico H2Te -- Telururo de hidrogeno // Acido telur hidrico Grupo 17: HF -- Fluoruro de hidrogeno // Acido fluor hidrico HCl -- Cloruro de hidrogeno // Acido clor hidrico HBr -- Bromuro de hidrogeno // Acido brom hidrico HI -- Yoduro de hidrogeno // Acido yod hidrico
+Iones	Un ion es una especie cargada positiva o negativamente formada a partir de átomos o moléculas que han ganado o perdido electrones como resultado de un cambio químico.
+Relacion entre n° de protones y n° de electrones	Átomos n° protones = n° electrones Cationes n° protones > n° electrones Aniones n° protones < n° electrones
+Especies Isoelectronicas	Son 2 o mas partículas (atomos o moleculas) que tienen el mismo número de electrones. Ej: K+ y S2- , ambos tienen 18 electrones
+Periodo - Tabla Periodica	Cada hilera horizontal, en la tabla periódica se denomina período, se pueden contar 7 períodos en total
+Grupo - Tabla Periodica	Cada columna vertical de la tabla periódica contiene un grupo (o familia) de elementos que tienen propiedades similares. Ahi 18 en total
+Bloques en la Tabla Periódica	Los elementos del bloque s o p se designan Elementos Representativos Los elementos del bloque d se denominan Elementos de Transición Los elementos del bloque f son Elementos de Transición Interna
+Tipos de Enlaces Covalentes	covalentes simples: Cuando los atomos se unen por medio de un par de electrones covalentes coordinada o dativo: Cuando un par de electrones es aportado por uno de los atomos covalentes multiples: Cuando ambos atomos se unen dos o tres pares de electrones
+Tipos de enlaces: Enlace Metalico	Son uniones entre metales de mismo tipo de atomo. comparten los electrones mediante una nube de electrones. Conducen muy bien la electricidad
+¿Que son los gases?	Son sustancias que se encuentran en estado gaseoso a temperatura y presion ambiente
+Caracteristicas de los gases	- Están constituidos por moléculas que se encuentran muy alejadas entre sí - Las moléculas de los gases se mueven continuamente en línea recta - La velocidad media y la energía cinética media de las moléculas del gas son proporcionales a la temperatura.
+Presion de un Gas	Es la fuerza aplicada en un area [$]Presion = \frac{Fuerza}{Area}[/$] Sus unidades son: Pascal (Pa), Atmosfera (atm) y milimetro de mercurio (mmHg o torr)
+Ley de Boyle	El producto de la presión y el volumen de un gas a temperatura constante y para una cantidad de gas fija, es una constante [$]P1 \cdot V1 = P2 \cdot V2[/$]
+1ra Ley de Charles	El volumen de una cantidad fija de un gas, a presión constante, es directamente proporcional a la temperatura absoluta del gas [$]\frac{V_{1}}{T_{1}} = \frac{V_{2}}{T_{2}}[/$]
+2da Ley de Charles	En una cantidad de gas a volumen constante, la presión del gas es directamente proporcional a la temperatura [$]\frac{P_{1}}{T_{1}} = \frac{P_{2}}{T_{2}}[/$]
+Ley de Avogadro	El volumen de cualquier gas es proporcional al número de moles de moléculas presentes [$]\frac{V_{1}}{n_{1}}= \frac{V_{2}}{n_{2}}[/$]
+Ecuacion del gases ideal	Teniendo en cuenta las 3 leyes de los gases (Boyle, Charles y Avogadro) se llega a la ecuacion [$]P \cdot V = n \cdot R \cdot T[/$]
+Dencidad de un Gas Ideal	A partir de la ecuacion del gas ideal podemos llegar a la ecuacion [$]p = \frac{m}{V}= \frac{P \cdot M}{R \cdot T}[/$]
+Masa Molar de una Sustancia Gaseosa	A partir de la ecuacion del gas ideal podemos llegar a la ecuacion [$]M = \frac{p \cdot R \cdot T}{P}[/$]
+Ley de Dalton	La presion total es la suma de las presiones parciales [$$]{\huge P_{total} = \Sigma\ P_{parciales}}[/$$]
+Fraccion Molar	Indica la relación de la cantidad de moléculas de un componente y la cantidad de moléculas de todos los componentes presentes. [$]X_{A}=\frac{n_{A}}{n_{T}}[/$]
+Presion Parcial por Fraccion molar	A partir de las fraccion molar y de la presión total, es posible calcular las presion parcial [$]P_{A}= X_{A} \cdot P_{T}[/$]
+¿Cuando un Enlace Cobalente puede ser polar?	Cuando 2 átomos del mismo elemento comparten de forma equitativa su par electronico
+¿Cuando un Enlace Cobalente puede ser no polar?	Cuando 2 átomos de distintos elementos no comparten de forma equitativa sus electrones
+Numero de Oxidacion	Representa el número de cargas que tendría un átomo si los electrones fueran transferidos por completo al átomo más electronegativo

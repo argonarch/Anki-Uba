@@ -1,0 +1,61 @@
+Formula de Convercion de Unidades	[$]20\frac{km}{h}\times \frac{1000m}{km}\times \frac{h}{3600s}=5,5\frac{m}{s}[/$]
+Sinonimo del Sistema Internacional de Unidades	Sistema M.K.S
+Que es una ecuacion?	Es una igualdad que involucra numeros y signos
+"Que significa la ""o"" y ""f"" abajo de una variable (Xo , Xf)"	o = inicial f = final
+Propiedades del Logaridmo (log)	[$]log_{a}a=1\\ log_{a}1=0\\ log_{a}(x\times y)= log_{a}x + log_{a}y\\ log_{a}(\frac{x}{y})= log_{a}x - log_{a}y[/$]
+Calcular velocidad en cinematica M.R.U	[$$]{\Huge v=\frac{\Delta x}{\Delta t}}[/$$] x = posicion/distancia t = tiempo
+Calcular Posicion (X) en cinematica M.R.U	[$$]{\huge x_{f}=x_{o}+v(t_{f}-t_{o})}[/$$]
+Calcular Aceleracion en cinematica M.R.U.V	[$$]{\huge a=\frac{(v_{f}-v_{o})}{(t_{f}-t_{o})}}[/$$]
+Calcular Velocidad f en M.R.U.V y Caida libre tiro vertical	M.R.U.V [$$]{\huge v_{f}=v_{o}+(a\cdot t)}[/$$] Caida libre tiro vertical [$$]{\huge v_{f}=v_{o}+(g\cdot t)}[/$$]
+Calcular Posicion(X) f en M.R.U.V y Altura (Y) Caida libre tiro vertical	M.R.U.V [$]x_{f}=x_{o}+(v_{o}\cdot t)+(\frac{1}{2}a\cdot t^{2})[/$] Caida libre tiro vertical [$]y_{f}=y_{o}+(v_{o}\cdot t)+(\frac{1}{2}g\cdot t^{2})[/$]
+Conceptos de Dinamica	Masa cantidad de materia en un cuerpo (Kg) Fuerza masa x aceleracion [$$]{\huge kg\cdot \frac{m}{s^{2}}=N}[/$$] Peso masa x aceleracion de la gravedad [$$]{\huge kg\cdot g}[/$$] [$$]{\huge g=9,81\frac{m}{s^{2}}}[/$$]
+Calcular Trabajo (W)	"W = F x d W: Trabajo (Joule ""J"" o Ergios) F: Fuerza (Newtons ""N"" o Dinas ""dyn"") d: Distancia (Metro ""m"" o Centimetro ""cm"")"
+Calcular Potencia (P)	"P = W / t o P= F x d/t P: Potencia (Watts ""W"") W: Trabajo (Joule ""J"") t: Tiempo ( Segundos ""s"") F: Fuerza (Newtons ""N"") d: Distancia (Metro ""m"")"
+1J (Joule) equivale	[$]1J=1N\cdot m = \bigg(kg\cdot \frac{m}{s^{2}}\bigg)\cdot m = \frac{kg\cdot m^{2}}{s^{2}}[/$]
+1W (Watt) equivale	[$]1W= \frac{J}{s} = \frac{N\cdot m}{s} = \frac{kg\cdot m^{2}}{s^{3}}[/$]
+Calcular Energia potencial	Ep = peso x altura Ep(J) = N(kgf) x m 1kgf = 9,81N
+Calcular Energia cinetica	Ec = 1/2 masa x v2 Ec(J) = 1/2 kg x (m2/s2)
+Ecuacion general de los gases ideales	[$]P \cdot V = n \cdot R \cdot T[/$] Tambien [$]\frac{P_{a}\cdot V_{a}}{T_{a}}=\frac{P_{b}\cdot V_{b}}{T_{b}}[/$] P: Presion V: Volumen n: Numero de molesR: Constante universal de los gases T: Temperatura
+Constante universal de los gases (R)	[$]R = 0,082\ \frac{l\ atm}{k\ mol}\\ \ \\ R = 8,31\ \frac{J}{k\ mol}\\ \ \\ R = 2\ \frac{cal}{k\ mol}[/$]
+Ley de Dalton	La presion total es la suma de las presiones parciales [$$]{\huge P_{total} = \Sigma\ P_{parciales}}[/$$]
+Calcular Presion parcial	[$$]{\huge P_{parciales\ A}= P_{total}\ \cdot X_{A}}[/$$] [$]X_{A}= \frac{nro.moles\ A}{nro.moles\ totales}[/$]
+Ley de Henry	La solubilidad de un gas es igual a la contante K por la presion del gas [gas]A = K x P pA
+Constante de Henry (K)	La Constante de Henry depende de la naturaleza del gas y la temperatura [$]K = \frac{mol}{l. atm}\ O\ \frac{mol}{l. mmHg}[/$]
+Humedad Absoluta	[$]H.A=\frac{m\ vapor}{v\ aire}= \frac{kg\ o\ g}{m^{3}}[/$]
+Humedad Relativa	[$$]H.R=\frac{m\ vapor}{m\ vapor\ max} \times 100 = Num \%[/$$]
+Teorema general de la Hidrostatica	La presión en un punto cualquiera de un líquido en reposo es igual al producto de su peso específico por la profundidad a la que se encuentra el punto Pmanometrica = Pliquido x hA Pmanometrica = δ x g x hA P: Presion h: Altura δ: Densidad g: Gravedad
+Presion de un liquido	Pliquido = peso del liquido / volumen ocupado Pliquido = m . g / v o m / v . g m/v = δ Pliquido = δ . g
+Presion Total	Ptotal A= Patmosferica + Pmanometrica A Ptotal A= Patmosferica + (δ x g x hA)
+Presion atmosferica	La Presion atmosferica en casos normales es 1 atm aunque si el enunciado lo dicta se cambia su valor
+Principio de Pascal	La presion aplicada a un fluido en un recipiente, se transmite sin disminucion a todas las partes del liquido y paredes del recipiente [$]P=\frac{F1}{A1}=\frac{F2}{A2}[/$]
+Caudal (Liquidos reales)	"Para calcular cuanto de un liquido esta pasando en cualquier parte de un camino (osea Caudal) [C] = seccion (o area) x distancia / tiempo d / t = v (velocidad) [C] = S x v """"[C] = m2 x m/s => m3/s"""" [C] = volumen / tiempo"
+Ecuacion de continuidad (Caudal)	C1=C2 S1 . v1 = S2 . v2 Sa = Sb + Sc S1 . v1 = ST2 . v2 = (Sb + Sc) . v2
+Teorema de Bernoulli	Presion propia del liquido + Energia potencial (Pmanometrica) + Presion Cinematica = Constante Osea P1 + δ . g . h1 + 1/2 δ . v12 = P2 + δ . g . h2 + 1/2 δ . v22
+Presion (Igualdad)	[$$]P= \frac{F}{S}=\frac{m \cdot a}{S}[/$$] F: Fuerza S: Seccion
+Pascal (Igualdad)	Es una unidad M.K.S o S.I [$$]Pascal= \frac{N}{m^{2}}=\frac{Kg \cdot m}{s^{2}\cdot m^{2}}=\frac{Kg}{s^{2}\cdot m}[/$$]
+Baria (Igualdad)	Es una unidad C.G.S [$$]Baria= \frac{dyn}{cm^{2}}=\frac{g \cdot cm}{s^{2}\cdot cm^{2}}=\frac{g}{s^{2}\cdot cm}[/$$]
+¿Que es Viscosidad?	Es la resistencia de un liquido al pasar por un conducto esto genera perdida de energia Viscosidad = η (poise) = baria . seg
+Ley de Pouseuille	[$$]{\huge C=\frac{\Delta P}{R}}[/$$] ΔP: Diferencia de presion R: Resistencia C: Caudal Tambien [$$]C=\frac{\Delta P \cdot \pi \cdot r^{4}}{8 \cdot \eta \cdot l}[/$$] r: Radio η: Viscosidad l: Longitud
+Resistencia (Caudal)	[$$]R=\frac {8 \cdot \eta \cdot l}{ \pi \cdot r^{4}}[/$$] Tambien R = dyn . seg / cm5
+¿Que es la Temperatura?	Es una propiedad que define el estado termico de un cuerpo Unidades: Celsius, Kelvin
+Variacion de Temperatura	Al restar mismos K y C° los resustados son iguales siendo diferentes unidades To = 20 C° Tf = 30 C° ΔT = Tf - To = 30 C° - 20 C° = 10 C° To = 293 C° Tf = 303 C° ΔT = Tf - To = 303 K - 293 K = 10 K
+Ecuacion general de Calorimetria	Q = Ce . m . (Tf -To) Q: Calor Ce: Calor Especifico T: Temperatura
+Calor Especifico (equivalencia)	[Ce] = Cal / (g . C°)
+Calor Latente	Se usa para cuando un mismo elemento empieza a cambiar de estado. [Cl] = Q / m [Cl] = Cal / g Puede tomar varios nombres dependiendo a estado a cambiar: [latex]\begin{tabular}{ |c | c| } \hline Calor Latente & Cambio de estados \\ \hline solidificación & líquido a sólido \\ \hline fusión & sólido a líquido \\ \hline condensación & gaseoso a líquido \\ \hline vaporización & líquido a gaseoso \\ \hline sublimación & gaseoso a sólido \\ \hline volatilización & sólido a gaseoso \\ \hline \end{tabular}[/latex]
+Calor Compartido (Ideal)	"Cuando 2 elementos comparten calor en situaciones ""ideales"": Qcedido + Qabsorbido = 0"
+Tipos de Transmision del Calor	Conduccion: - Desplazamiento de energia - No hay desplazamiento de materia Conveccion: - Desplazamiento de energia y materia Radiacion: - Todos los emiten energia de forma continua - Energia, transportada por ondas electromagneticas - Puede transmitirse en el vacio
+Ley de Fourier (Conduccion)	[$$]\frac{Q}{t}=\frac{K \cdot A \cdot \Delta T}{\Delta x}[/$$] K: Contante de conduccion termica que depende del material A: Area ΔT: Diferencia de Temperatura Δx: Diferencia de Distancia
+Contante de conduccion termica K (Equivalencia)	M.K.S[$]K=\frac{K \ cal}{m\ s\ C°}[/$] O C.G.S [$]K=\frac{cal}{cm\ s\ C°}[/$]
+Transformacion isobarica (gases)	Se mantiene la Presion constante, por lo cual: Vo / To = Vf / Tf El calor Q modifica la temperatura El trabajo W modifica el volumen W = p .(Vf -Vo) W = atm . l
+l . atm, J , Cal (Igualdad)	0,082 l. atm = 8.31 J = 2 Cal
+Relacion V (volumen) y W (trabajo)	Expansion = Vf > Vo = W+ Compresion = Vf < Vo = W-
+Energia Interna	Es una propiedad de los sistemas termidinamicos ΔU = Uf - Uo Depende exclusivamente de la Temperatura Si Tf > To => Uf > Uo => ΔU > 0 Si Tf < To => Uf < Uo => ΔU < 0 Si Tf = To => Uf = Uo => ΔU = 0
+1er Principio de la Termodinamica	La Energia interna puede modificarse al intercambiar Calor y/o realizar Trabajo ΔU = Q - W
+Calor especifico del Agua	[$$]{\huge 1\frac {cal} {g \ C°}}[/$$]
+Equivalente Mecanico del Calor	W = 2 . n . P . h n: numero de veces movido Q = m . Ce H2O . ΔT
+Equivalencia Trabajo (W) y Calor (Q)	W / Q = 4,18 J / Cal 4,18 J = 1 Cal
+¿Que es una Solucion?	La dispersión homogénea de dos o más sustancias
+¿Que indica la proporcion en una solucion?	Si la sustancia es Solvente (mayor) o Soluto (menor)
+Un Solucion puede ser:	Diluida: el Soluto es pequeño a comparacion del Solvente Concentrada: la cantidad del Soluto es mucho mayor a la del Solvente Saturada: Contiene el máximo de soluto posible que se puede disolver a una determinada temperatura
+¿Que es la Solubilidad?	Es la cantidad de soluto capaz de disolverse en un solvente a cierta temperatura
+Tipos de Formas para Calcular Concentracion	Molaridad (M) Molalidad Osmolaridad Fraccion molar (x) % m/V: gramos de soluto en 100 ml de solucion % m/m: gramos de soluto en 100 g de solucion
