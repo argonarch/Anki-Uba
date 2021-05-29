@@ -78,10 +78,29 @@ Por ahora el contenido que se encuentra disponibles hasta ahora son:
 
 Por ahora lo que nos faltan serian para las materias:
 
-- 
--
--
--
+- Biología (08)
+- Biología e Int. Biología Celular (54)
+- Economía (21)
+- Filosofía (42)
+- Introducción al Conocimiento Proyectual I (46)
+- Introducción al Conocimiento de la Sociedad y el Estado (ICSE) (24)
+- Historia Económica y Social General (74)
+- Física (03)
+- Introducción al Conocimiento Proyectual II (47)
+- Introducción al Pensamiento Científico (40)
+- Principios de Derechos Humanos y Derecho Constitucional (50)
+- Antropología (16)
+- Análisis Matemático A (66)
+- Álgebra A (62)
+- Álgebra (71)
+- Sociología (14)
+- Principios Generales de Derecho Privado (89)
+- Psicología (15)
+- Semiología (43)
+- Matemática (61)
+- Taller de Dibujo (48)
+- Trabajo y Sociedad (70)
+- Ciencia Política (22)
 
 
 Esta parte se va a ir actualizando a medida que vayan llegando mas sumas de contenido
