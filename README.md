@@ -3,11 +3,11 @@ Hola, veo que estas interesado en el proyecto Anki Uba.
 
 ### Te estaras preguntando ¿De que trata el proyecto?
 
-La idea general es centralizar las targetas anki ([info](https://youtu.be/y0dsv4SjWds?t=43)) referentes a materias de la UBA (Univercidad de Buenos Aires), ya sean del cbc/Uba xxi o de especialidades dentro de la univercidad
+La idea es utilizar la [**Repeticion Espaciada**](https://www.youtube.com/watch?v=NwzgKymtH3Q) y [**Active Recall**](https://www.youtube.com/watch?v=UzaA1_NQG8M) (las cuales se concideran como una de las mejores tecnicas de estudio) en las materias del CBC o UBA 21 para una mejor comprencion y memimorizacion a largo plazo de los temas, con este fin se decidio utilizar las funciones de [**Anki**](https://www.youtube.com/watch?v=WYapUQ5aONI) y poder hacerlo realidad.
 
 ### Comienzo
 
-Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando para traerles mas contenido. Si estas interesado en contribuir, tu ayuda es mas que bienvenida.
+Por ahora se estan creando, revisando y modificando las tarjetas Anki que se utilizaran para las diferentes materias, todavia el proyecto esta en pañales por lo que no recomendaria su uso como forma de estudio aun. Pero si estas interesado en contribuir, tu ayuda es mas que bienvenida.
 
 <!--ts-->
   * [¿Que tengo que hacer?](#que-tengo-que-hacer)
@@ -20,7 +20,7 @@ Como puedes ver el repositorio esta algo pobre por ahora, pero estare trabajando
 <!--te-->
 ### ¿Que tengo que hacer?
 
-Si eres nuevo en git hub, debes saber que el/los archivo/s que estas buscando se encuentran arriba del todo este texto, entrando a la carpeta "Uba-21"
+Si eres nuevo en git hub, debes saber que el archivo que estas buscando se encuentran arriba del todo este texto, entrando a la carpeta "Uba-21"
 
 - En celular
 
@@ -35,13 +35,14 @@ Una vez que descarges el archivo lo abres y se importara automaticamente el mazo
 Nota importante: Para esto se debe de tener instalado previamente anki: para [**Computadora**](https://apps.ankiweb.net/) ; para [**Movil**](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### ¿Como puedo contribuir?
+
+- Si cuentas con Apuntes, Resumenes, Cuadros Sinapticos o PDFs de materias que nos faltan en la [lista](#apuntes-y-pdf-faltantes) nos encantaria si pudieras enviarlas a los [contactos](#contacto), asi podremos crear nuevas tarjetas para las materias que faltan
+
 - Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
 
-- Si encontraste errores tanto gramaticales, comprencion de texto o problemas con latex, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto), o si alcanzas a corregirlo podes publicarlo.
+- Si encontraste errores tanto gramaticales, de comprencion o problemas con [latex](https://www.youtube.com/watch?v=n_EqBkHS4Mo) en las formulas, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto).
 
 - Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
-
-- Si cuentan con apuntes o archivos PDF de materias que nos faltan (lista [aqui]())puedes enviarlas a [contacto](#contacto), asi podremos crear tarjetas para nuevas materias  
 
 ### Todo muy lindo pero ... ¿como lo publico?
 
@@ -71,8 +72,9 @@ Contactos [aqui](#contacto)
 
 Por ahora el contenido que se encuentra disponibles hasta ahora son:
 
-- Física e Introducción a la Biofísica (53)    1er examen 
-- Quimica (05) 1er examen (en contruccion)
+- Física e Introducción a la Biofísica (53)    1er examen (En Revision)
+- Quimica (05) 1er examen (En contruccion)
+- Quimica (05) 2do examen (En contruccion)
 
 ## Apuntes y PDF faltantes
 
