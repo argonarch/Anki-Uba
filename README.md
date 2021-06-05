@@ -30,9 +30,9 @@ Nota importante: Para esto se debe de tener instalado previamente anki: para [**
 
 - Si cuentas con Apuntes, Resumenes, Cuadros Sinapticos o PDFs de materias que nos faltan en la [lista](#apuntes-y-pdf-faltantes) nos encantaria si pudieras enviarlas a los [contactos](#contacto), asi podremos crear nuevas tarjetas para las materias que faltan
 
-- Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s y las publicare.
-
 - Si encontraste errores tanto gramaticales, de comprencion o problemas con [latex](https://www.youtube.com/watch?v=n_EqBkHS4Mo) en las formulas, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto).
+
+- Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s 
 
 - Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
 
@@ -100,7 +100,7 @@ Por ahora lo que nos faltan serian para las materias:
 Esta parte se va a ir actualizando a medida que vayan llegando mas sumas de contenido
 
 ### Contacto
-Como veo que el metodo para compartir un archivo en git hub es algo tedioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consulten sus dudas
+Como veo que el metodo para compartir un archivo en git hub es algo tedioso y poco practico (si quieres hacerlo, info aqui), dejo estas formas de contacto para que compartan sus masos de anki (.apkg) o para que consultes tus dudas
 
 Whatsapp: +54 1122559077
 
