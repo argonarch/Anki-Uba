@@ -20,7 +20,7 @@ Por ahora se estan creando, revisando y modificando las tarjetas Anki que se uti
 <!--te-->
 ### ¿Que tengo que hacer?
 
-Si eres nuevo en git hub, debes saber que el archivo que estas buscando esta en el apartado [Releases](https://github.com/argonarch/Anki-Uba/releases), ahi encontraran el archivo **UBA XXI** que es la version completa y abajo estan los archivo opcionales de cada materia (estos se actualizaran cada 10 dias), pero si quieres ver los archivos mas recientes y sus avances te invito a echarles un [ojo](https://github.com/argonarch/Anki-Uba/tree/main/Uba-21)
+Si eres nuevo en git hub, debes saber que el archivo que estas buscando esta en el apartado [Releases](https://github.com/argonarch/Anki-Uba/releases), ahi encontraras el archivo **UBA XXI.apkg** que es la version completa y abajo estan los archivo opcionales de cada materia (estos se actualizaran cada 10 dias), pero si quieres ver los archivos mas recientes y sus avances te invito a echarles un [ojo](https://github.com/argonarch/Anki-Uba/tree/main/Uba-21)
 
 Una vez que descarges el archivo lo abres y se importara automaticamente el mazo a nuestros anki
 
@@ -28,13 +28,15 @@ Nota importante: Para esto se debe de tener instalado previamente anki: para [**
 
 ### ¿Como puedo contribuir?
 
-- Si cuentas con Apuntes, Resumenes, Cuadros Sinapticos o PDFs de materias que nos faltan en la [lista](#apuntes-y-pdf-faltantes) nos encantaria si pudieras enviarlas a los [contactos](#contacto), asi podremos crear nuevas tarjetas para las materias que faltan
+- Si cuentas con Apuntes, Resumenes, Cuadros Sinapticos o PDFs de materias que nos faltan en la [lista](#apuntes-y-pdf-faltantes) nos encantaria si pudieras enviarlas a los [contactos](#contacto), asi podremos crear nuevas tarjetas para las materias que faltan.
 
 - Si encontraste errores tanto gramaticales, de comprencion o problemas con [latex](https://www.youtube.com/watch?v=n_EqBkHS4Mo) en las formulas, Puedes mencionarlos en el apartado [Issues](https://github.com/argonarch/Anki-Uba/issues/new) o a los [contactos](#contacto).
 
-- Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s 
+- Si sabes hacer dibujo digital, en la capeta [Imagenes]() encontraras bocetos que se deben pasar a digital para incluirlos en las tarjetas y hacerlas mas eficasez.
 
-- Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto
+- Si ya tienes tarjetas hechas en anki de alguna materia (sea incluso una),  puedes publicarla\s.
+
+- Si agregas o modificas tarjetas del los mazos dados aqui, estaria agradecido de que puedas publicarlas para ayudar a expandir los contenidos del proyecto.
 
 ### Todo muy lindo pero ... ¿como lo publico?
 
