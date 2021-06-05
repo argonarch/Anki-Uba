@@ -20,15 +20,7 @@ Por ahora se estan creando, revisando y modificando las tarjetas Anki que se uti
 <!--te-->
 ### ¿Que tengo que hacer?
 
-Si eres nuevo en git hub, debes saber que el archivo que estas buscando se encuentran arriba del todo este texto, entrando a la carpeta "Uba-21"
-
-- En celular
-
-![cel2](https://user-images.githubusercontent.com/51279889/117212407-afd97900-add0-11eb-89e4-a56901fc326f.jpg)
-
-- En computadora
-
-![comp1c](https://user-images.githubusercontent.com/51279889/117208294-57ec4380-adcb-11eb-8bb0-b170ee9cbc37.jpg)
+Si eres nuevo en git hub, debes saber que el archivo que estas buscando esta en el apartado [Releases](https://github.com/argonarch/Anki-Uba/releases), ahi encontraran el arcrivo **UBA XXI** que es la version completa y abajo estan los archivo opcionales de cada materia (estos se actualizaran cada 10 dias), pero si quieres ver los archivos mas recientes y sus avances te invito a echarles un [ojo](https://github.com/argonarch/Anki-Uba/tree/main/Uba-21)
 
 Una vez que descarges el archivo lo abres y se importara automaticamente el mazo a nuestros anki
 
