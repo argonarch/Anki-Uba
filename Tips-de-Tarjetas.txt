@@ -10,10 +10,9 @@
 9- Solo usar la enumeracion solo cuando sea necesario, siempre es mejor el "close"
 10- Tratar que las tarjetas tengan una buena redaccion para reducir el tiempo de respuesta del cerebro
 11- Si es posible, tratar de hacer referencia a otras tarjetas para reforzarlas
-12- Es mejor dar ejemplos de la vida cotidiana para las tarjetas
+
 13- Etiquetar las tarjetas para ubicar a la persona del tema en el que esta ayuda a recordarlo
-14- Al realizar ejercicios siempre comensar con lo mas simple y luego sumarlo a ejercicios mas complejos
 15- Al encontrarse con un hecho con diferentes puntos de vista pero de alto valor dar enfasis de cada caso
-16- Si una palabra tiene muchos significados poner solo los mas importantes. Porque no siempre son necesarios
+
 17- Poner la fuente de la informacion es importante por si la persona no comprende del todo la respuesta
-18- Los minites son una gran herramienta para una mayor retencion de informacion
+18- Los minitest son una gran herramienta para una mayor retencion de informacion
